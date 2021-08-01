@@ -18,6 +18,8 @@ Start developing and you are good to go !
 
 ## Screenshots
 
-![Development and deploying](https://drive.google.com/file/d/1BG8U8bAB3JiA5GI9IFKbmUEMqYuwPJDg/view?usp=sharing)
-![Final result](https://drive.google.com/file/d/1Zji8ACWT_CnKdFKC6zlQCHOKhq2UpNxD/view?usp=sharing)
-![Final result 2](https://drive.google.com/file/d/1yL3G0G4sqouGOhzew9TNHpcBONsujfPl/view?usp=sharing)
+![Development and deploying](https://github.com/TheProgrammerGuy/images_for_github_readme/blob/main/Screenshot%20(6).png)
+![Final result 1](https://github.com/TheProgrammerGuy/images_for_github_readme/blob/main/Screenshot%20(7).png)
+![Final result 2](https://github.com/TheProgrammerGuy/images_for_github_readme/blob/main/Screenshot%20(8).png)
+![Final result 3](https://github.com/TheProgrammerGuy/images_for_github_readme/blob/main/Screenshot%20(9).png)
+
